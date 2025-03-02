@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     default: "Hugo Loiola",
     template: "%s | Hugo Loiola",
   },
+  icons: {
+    icon: "/favicon.ico",
+  },
   description: "Portfolio do Hugo.",
   openGraph: {
     title: "Portfolio do Hugo",
