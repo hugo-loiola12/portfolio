@@ -1,7 +1,8 @@
 import { BlogPosts } from "app/components/posts";
+import React from "react";
 
 export const metadata = {
-  title: "Blog do Hugo",
+  title: "Blog",
   description: "Aqui só vai encontrar burrice.",
 };
 
