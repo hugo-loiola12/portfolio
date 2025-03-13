@@ -12,7 +12,7 @@ export default function Page() {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-8 mb-8">
         <Image
           src={"/hugo.png"}
-          alt="Hugo"
+          alt="Hugostoso"
           width={200}
           height={200}
           className="rounded-full border-4 border-gray-200"
